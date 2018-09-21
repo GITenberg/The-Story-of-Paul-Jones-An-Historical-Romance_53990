@@ -1,0 +1,34 @@
+_repo: The-Story-of-Paul-Jones-An-Historical-Romance_53990
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Ward, Phillipps
+    gutenberg_agent_id: '34634'
+    url: http://www.gutenberg.org/2009/agents/34634
+  - agent_name: Stone, Seymour M.
+    gutenberg_agent_id: '47653'
+    url: http://www.gutenberg.org/2009/agents/47653
+creator:
+  author:
+    agent_name: Lewis, Alfred Henry
+    alias: Quin, Dan
+    birthdate: 1857
+    deathdate: 1914
+    gutenberg_agent_id: '1257'
+    url: http://www.gutenberg.org/2009/agents/1257
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Henry_Lewis
+description: ''
+gutenberg_issued: '2017-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Jones, John Paul, 1747-1792 -- Fiction'
+- GITenberg
+title: 'The Story of Paul Jones: An Historical Romance'
+url: http://www.gutenberg.org/ebooks/53990
